@@ -38,7 +38,7 @@ The examination focused on determining whether:
 
 ## Report
 
-[View the full investigation report](manson-firearm-sales-investigation.pdf)
+[View the full investigation report](Manson case-6.pdf)
 
 ## Notice
 
