@@ -36,10 +36,6 @@ The examination focused on determining whether:
 - Timeline correlation
 - Formal forensic reporting
 
-## Report
-
-[View the full investigation report](Manson case-6.pdf)
-
 ## Notice
 
 This repository documents a simulated digital forensic case study. The names, systems, evidence, and events are part of a controlled training scenario.
